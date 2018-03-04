@@ -45,7 +45,7 @@ __Matt__: A friend with killer skills in python and economics and the best pract
 
 __Zack__: A classmate (and friend!) who teaches Math at the community-college level and with a degree in philosophy to boot. Doesn't miss the forest for the mathematical trees. 
 
-I think the three of us can destroy it, but what's the scenario? 
+I think the group of us can destroy it, but what's the scenario? 
 
 -------------------------------------------------------------------
 
