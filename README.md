@@ -17,7 +17,7 @@ Okay gents, NCAA, Google, and Kaggle teamed up to host a competition for the bes
 
 There are a few problems if we take on this challenge, and one of these is the structuring of the data--about two dozen data sets full of strange variables, across multiple years, etc. Just *getting* the data into a useable frame is going to be a battle. After this, we need to decide how exactly we are going to model the data. 
 
-![Different algorithmic results](https://cdn57.androidauthority.net/wp-content/uploads/2015/07/machine-learning-classifier-comparison2x5.jpg)
+![Different algorithmic results](http://scikit-learn.org/stable/_images/sphx_glr_plot_classifier_comparison_001.png)
 
 For me, it makes most sense to use a neural net--but I could be biased because of prior use and familiarity--to model either a probability of winning overall for a given team or to model team vs. team logistic outcomes. 
 The team-vs-team aspect of this is also new for me: I've never had to predict anything quite like it before. I'd like our first discussion, if we decide to take this on, to be about how exactly we can use predictive modeling within a tournament framework. It's not immediately obvious to me which way to do this. A naiive answer might be to say, "create a predictive model which ranks all the teams in the NCAA and then apply those ranks to the teams themselves and the highest-ML-ranked team wins each matchup until it's over" but this doesn't take into account the pecularities of the team-vs-team structure of the problem. 
@@ -27,4 +27,4 @@ If you're game, I welcome your thoughts. Dr. Youngs said that he expects us to e
 :) 
 
 ## Formalities
-* [The full description can be found here](http://scikit-learn.org/stable/_images/sphx_glr_plot_classifier_comparison_001.png)
+* [The full description can be found here](https://www.kaggle.com/c/mens-machine-learning-competition-2018/data)
