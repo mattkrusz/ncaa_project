@@ -2,9 +2,12 @@
 
 Zack, I saw your face light up a bit in class when I mentioned this so I figure it's right up your alley. Matt, while you aren't in class with Zack and me and didn't see the gauntlet thrown down (our professor invited us into his bracket pool), I think you'd find this a fun problem to work on. Plus the idea of doing this without your big old brain feels just *wrong*. 
 
-Andrew: A PhD student in Research, Statistics, and Evaluation with an interest in machine learning and a bit too much free time now that his spring break plans were canceled. 
-Matt: A friend with killer skills in python and economics and the best practical problem-solving skills I've ever seen put to use. 
-Zack: A classmate (and friend!) who teaches Math at the community-college level and with a degree in philosophy to boot. Doesn't miss the forest for the mathematical trees. 
+### The Team
+_Andrew_: A PhD student in Research, Statistics, and Evaluation with an interest in machine learning and a bit too much free time now that his spring break plans were canceled. 
+
+_Matt_: A friend with killer skills in python and economics and the best practical problem-solving skills I've ever seen put to use. 
+
+_Zack_: A classmate (and friend!) who teaches Math at the community-college level and with a degree in philosophy to boot. Doesn't miss the forest for the mathematical trees. 
 
 I think the three of us can destroy it, but what's the scenario? 
 
