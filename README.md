@@ -1,4 +1,4 @@
-##NCAA March Madness Bracket Predictions
+## NCAA March Madness Bracket Predictions
 
 Zack, I saw your face light up a bit in class when I mentioned this so I figure it's right up your alley. Matt, while you aren't in class with Zack and me and didn't see the gauntlet thrown down (our professor invited us into his bracket pool), I think you'd find this a fun problem to work on. Plus the idea of doing this without your big old brain feels just *wrong*. 
 
@@ -22,3 +22,6 @@ The team-vs-team aspect of this is also new for me: I've never had to predict an
 If you're game, I welcome your thoughts. Dr. Youngs said that he expects us to enter the competition by our next class, and that means Thursday the 15th. 
 
 :) 
+
+## Formalities
+* [The full description can be found here](http://scikit-learn.org/stable/_images/sphx_glr_plot_classifier_comparison_001.png)
